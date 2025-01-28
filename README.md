@@ -22,4 +22,8 @@ In my lab, I used application gateway public IP address to access the ecommerce 
 But you can configure a custom domain name or DNS to allow users to access the website via a user-friendly URL
 
 
+<<<<<<< HEAD
  
+=======
+Application gateway load balancer - smart traffic - users can access through URL or DNS 
+>>>>>>> 5add464458eeacb42eb6f103cff39d4f87f073a8
